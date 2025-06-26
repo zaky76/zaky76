@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zaky Hossain
 #### Full Stack Web Developer
-![Web Developer]
+
 I'm Zaky Hossain, a passionate Web Developer with a strong focus on creating responsive, user-friendly, and efficient web applications. With a deep understanding of front-end and back-end technologies, I love turning complex problems into elegant solutions. Whether it's developing dynamic websites, integrating APIs, or building admin dashboards, I always strive to write clean and maintainable code. I'm driven by continuous learning and committed to delivering high-quality digital experiences.
 
 Skills: HTML / CSS/REACT / JS /PHP (Laravel) /Dart etc.
